@@ -1,0 +1,9 @@
+debug: false
+
+http:
+  addr: "0.0.0.0:8000"
+
+oauth:
+  admin:
+    username: "admin"
+    password: "qq7824067"  # 你可以改
